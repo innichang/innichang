@@ -15,8 +15,12 @@
 </div>
 <br>
 <br>
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innichang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innichang&show_icons=true&theme=radical)
+<details>
+  <summary>:zap: Github Stats</summary>
   
+  <img align="left" alt="innichang's Github Stats" src="https://github-readme-stats-innichang.vercel.app/api?username=innichang&show_icons=true&theme=transparent" />
+  <div>
+    <img align="left" alt="innichang's Top Langs" src="https://github-readme-stats-innichang.vercel.app/api/top-langs/?username=innichang&layout=compact" />
+  </div>
+</details>
   
