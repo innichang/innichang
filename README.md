@@ -2,9 +2,7 @@
 
 ### I'm aspiring to become a backend developer!
 
-### My Blog
-
-#### Link: <a href="https://medium.com/@inni.chang95"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"></a>
+### My Blog: <a href="https://medium.com/@inni.chang95"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"></a>
 
 
 ## Languages and Tools:
