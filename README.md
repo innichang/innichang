@@ -22,11 +22,11 @@
 ## :zap: Github Stats :zap:
 
 
-  <img alt="innichang's Github Stats" src="https://github-readme-stats-vi92-qwjz26fl5-innichang.vercel.app/api?username=innichang&show_icons=true&theme=transparent" />
+  <img alt="innichang's Github Stats" src="https://github-readme-stats-vi92-git-master-innichang.vercel.app/api?username=innichang&show_icons=true&theme=transparent" />
 
   <br>
 
-  <img alt="innichang's Top Langs" src="https://github-readme-stats-vi92-qwjz26fl5-innichang.vercel.app/api/top-langs/?username=innichang&layout=compact" />
+  <img alt="innichang's Top Langs" src="https://github-readme-stats-vi92-git-master-innichang.vercel.app/api/top-langs/?username=innichang&layout=compact" />
 
 
 
