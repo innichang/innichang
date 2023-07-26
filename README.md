@@ -26,7 +26,7 @@
 
   <br>
 
-  <img alt="innichang's Top Langs" src="https://github-readme-stats-6t4n-git-master-innichang.vercel.app/api/top-langs/?username=innichang&lshow_icons=true&theme=transparent" />
+  <img alt="innichang's Top Langs" src="https://github-readme-stats-6t4n-git-master-innichang.vercel.app/api/top-langs/?username=innichang&theme=transparent" />
 
 
 
