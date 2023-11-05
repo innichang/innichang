@@ -1,9 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m Inni - @innichang
-
-### I'm aspiring to become a backend developer!
-
+# 👋 Hi, I’m Inni
 
 ## Languages and Tools:
 
