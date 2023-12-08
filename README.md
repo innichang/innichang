@@ -27,17 +27,13 @@
 
 <br/>
 
-## My Blog:
+## My Blog
 <a href="https://medium.com/@inni.chang95"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"></a>
   
-## :zap: Github Stats :zap:
 
-
+## Stats
   <img alt="innichang's Github Stats" src="https://github-readme-stats-6t4n-git-master-innichang.vercel.app/api?username=innichang&show_icons=true&theme=transparent" />
 
-  <br>
-
-  <img alt="innichang's Top Langs" src="https://github-readme-stats-6t4n-git-master-innichang.vercel.app/api/top-langs/?username=innichang&theme=transparent" />
 
 
 
