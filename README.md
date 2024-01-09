@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I’m Inni
-
 ## Languages and Tools:
 
 <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -27,15 +25,12 @@
 
 <br/>
 
-## My Blog
+## Blog
 <a href="https://medium.com/@inni.chang95"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"></a>
   
-
-## Stats
-  <img alt="innichang's Github Stats" src="https://github-readme-stats-6t4n-git-master-innichang.vercel.app/api?username=innichang&show_icons=true&theme=transparent" />
-
-
-
+<br>
+<br>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finnichang&count_bg=%237B9E60&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
