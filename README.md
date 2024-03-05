@@ -28,9 +28,7 @@
 
 <br/>
 
-## Blog
-<a href="https://medium.com/@inni.chang95"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"></a>
-  
+
 <br>
 <br>
 <br>
